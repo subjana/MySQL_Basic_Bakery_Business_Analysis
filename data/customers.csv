@@ -1,0 +1,61 @@
+customer_id,customer_name,age_in_2021,gender,religion,area,upazila,district
+1,Ayesha Akter,30,Female,Muslim,Naogaon Sadar (outside city),Naogaon Sadar,Naogaon
+2,Farhana Islam,52,Female,Muslim,Naogaon Sadar (outside city),Naogaon Sadar,Naogaon
+3,Nusrat Jahan,24,Female,Muslim,Naogaon Sadar (outside city),Naogaon Sadar,Naogaon
+4,Sadia Rahman,54,Female,Muslim,Naogaon city,Naogaon Sadar,Naogaon
+5,Sumaiya Khatun,25,Female,Muslim,Naogaon city,Naogaon Sadar,Naogaon
+6,Rumana Begum,19,Female,Muslim,Sapahar,Sapahar,Naogaon
+7,Sharmin Sultana,65,Female,Muslim,Sapahar,Sapahar,Naogaon
+8,Jannatul Ferdous,57,Female,Muslim,Naogaon city,Naogaon Sadar,Naogaon
+9,Tanjina Akter,59,Female,Muslim,Dhamoirhat,Dhamoirhat,Naogaon
+10,Nabila Islam,35,Female,Muslim,Naogaon city,Naogaon Sadar,Naogaon
+11,Mariam Khatun,18,Female,Muslim,Badalgachi,Badalgachi,Naogaon
+12,Rafia Rahman,46,Female,Muslim,Dhamoirhat,Dhamoirhat,Naogaon
+13,Sabina Yasmin,58,Female,Muslim,Niamatpur,Niamatpur,Naogaon
+14,Shamima Begum,39,Female,Muslim,Naogaon city,Naogaon Sadar,Naogaon
+15,Fahmida Akter,63,Female,Muslim,Raninagar,Raninagar,Naogaon
+16,Roksana Khatun,65,Female,Muslim,Naogaon city,Naogaon Sadar,Naogaon
+17,Tasnim Jahan,27,Female,Muslim,Naogaon city,Naogaon Sadar,Naogaon
+18,Shahana Begum,46,Female,Muslim,Badalgachi,Badalgachi,Naogaon
+19,Nazma Akter,60,Female,Muslim,Niamatpur,Niamatpur,Naogaon
+20,Rubina Yasmin,31,Female,Muslim,Naogaon city,Naogaon Sadar,Naogaon
+21,Hasan Ali,34,Male,Muslim,Naogaon city,Naogaon Sadar,Naogaon
+22,Arif Hossain,21,Male,Muslim,Badalgachi,Badalgachi,Naogaon
+23,Rakib Islam,51,Male,Muslim,Porsha,Porsha,Naogaon
+24,Shahidul Rahman,42,Male,Muslim,Naogaon Sadar (outside city),Naogaon Sadar,Naogaon
+25,Mahmud Hasan,46,Male,Muslim,Dhamoirhat,Dhamoirhat,Naogaon
+26,Abdul Karim,26,Male,Muslim,Naogaon city,Naogaon Sadar,Naogaon
+27,Saiful Islam,29,Male,Muslim,Naogaon city,Naogaon Sadar,Naogaon
+28,Jamal Uddin,43,Male,Muslim,Niamatpur,Niamatpur,Naogaon
+29,Kamrul Hasan,56,Male,Muslim,Manda,Manda,Naogaon
+30,Rashed Ahmed,47,Male,Muslim,Badalgachi,Badalgachi,Naogaon
+31,Abdur Rahim,20,Male,Muslim,Naogaon city,Naogaon Sadar,Naogaon
+32,Faisal Hossain,38,Male,Muslim,Patnitala,Patnitala,Naogaon
+33,Imran Ali,27,Male,Muslim,Niamatpur,Niamatpur,Naogaon
+34,Mizanur Rahman,51,Male,Muslim,Raninagar,Raninagar,Naogaon
+35,Nazmul Islam,53,Male,Muslim,Niamatpur,Niamatpur,Naogaon
+36,Monir Hossain,56,Male,Muslim,Naogaon city,Naogaon Sadar,Naogaon
+37,Shafiqul Islam,24,Male,Muslim,Naogaon city,Naogaon Sadar,Naogaon
+38,Rafiqul Alam,59,Male,Muslim,Naogaon city,Naogaon Sadar,Naogaon
+39,Sabbir Ahmed,47,Male,Muslim,Badalgachi,Badalgachi,Naogaon
+40,Anisur Rahman,31,Male,Muslim,Badalgachi,Badalgachi,Naogaon
+41,Priya Saha,20,Female,Hindu,Naogaon city,Naogaon Sadar,Naogaon
+42,Mita Roy,19,Female,Hindu,Naogaon city,Naogaon Sadar,Naogaon
+43,Puja Das,34,Female,Hindu,Manda,Manda,Naogaon
+44,Soma Paul,61,Female,Hindu,Naogaon city,Naogaon Sadar,Naogaon
+45,Ananya Ghosh,31,Female,Hindu,Naogaon city,Naogaon Sadar,Naogaon
+46,Rina Sarker,29,Female,Hindu,Raninagar,Raninagar,Naogaon
+47,Shila Biswas,54,Female,Hindu,Mohadebpur,Mohadebpur,Naogaon
+48,Madhuri Dutta,55,Female,Hindu,Patnitala,Patnitala,Naogaon
+49,Kakoli Sen,27,Female,Hindu,Naogaon Sadar (outside city),Naogaon Sadar,Naogaon
+50,Supriya Chakraborty,65,Female,Hindu,Niamatpur,Niamatpur,Naogaon
+51,Sujan Saha,39,Male,Hindu,Atrai,Atrai,Naogaon
+52,Ratan Roy,44,Male,Hindu,Raninagar,Raninagar,Naogaon
+53,Suman Das,25,Male,Hindu,Dhamoirhat,Dhamoirhat,Naogaon
+54,Biplab Paul,29,Male,Hindu,Atrai,Atrai,Naogaon
+55,Subrata Ghosh,55,Male,Hindu,Raninagar,Raninagar,Naogaon
+56,Pradip Sarker,31,Male,Hindu,Sapahar,Sapahar,Naogaon
+57,Bikash Biswas,51,Male,Hindu,Naogaon Sadar (outside city),Naogaon Sadar,Naogaon
+58,Amit Dutta,54,Male,Hindu,Badalgachi,Badalgachi,Naogaon
+59,Dipak Sen,54,Male,Hindu,Sapahar,Sapahar,Naogaon
+60,Anup Chakraborty,62,Male,Hindu,Manda,Manda,Naogaon

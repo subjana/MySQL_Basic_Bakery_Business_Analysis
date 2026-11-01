@@ -1,0 +1,9 @@
+product_id,product_name,category,sale_unit,unit_price_bdt,unit_cost_bdt
+1,Chocolate Cake,Cake,1 pound,650,390
+2,Vanilla Cake,Cake,1 pound,550,330
+3,Black Forest Cake,Cake,1 pound,750,470
+4,Red Velvet Cake,Cake,1 pound,850,540
+5,Chocolate Cupcakes,Cupcake,Box of 6,300,180
+6,Vanilla Cupcakes,Cupcake,Box of 6,270,160
+7,Chocolate Brownies,Brownie,Box of 4,320,195
+8,Butter Cookies,Cookie,Box of 12,220,130
